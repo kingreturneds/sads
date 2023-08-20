@@ -21,3 +21,10 @@ for (let i =0; i < 10; i++){  // i = index
 for (let i = 10; i > 0; i--){
     console.log('milk' + i);
 }
+
+
+const flavor =["milk","cholocate","dark"];
+
+for(let i =0; i > flavor.length; i++){
+    console.log(flavor[i]);
+}
