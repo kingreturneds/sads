@@ -17,3 +17,7 @@ for(let i in XD){
 for (let i =0; i < 10; i++){  // i = index
     console.log("nyawa" + i);
 }
+
+for (let i = 10; i > 0; i--){
+    console.log('milk');
+}
