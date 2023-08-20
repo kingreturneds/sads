@@ -28,4 +28,6 @@ const flavor =["milk","cholocate","dark"];
 for(let i = 0; i < flavor.length; i++){
     console.log(flavor[i]);
 }
-for( xxx of flavor)console.log(xxx);
+const food =["rice","wafer","corn"];
+for ( noss of food)console.log(noss);
+
