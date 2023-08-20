@@ -25,6 +25,6 @@ for (let i = 10; i > 0; i--){
 
 const flavor =["milk","cholocate","dark"];
 
-for(let i =0; i > flavor.length; i++){
+for(let i = 0; i < flavor.length; i++){
     console.log(flavor[i]);
 }
