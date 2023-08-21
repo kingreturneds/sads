@@ -35,6 +35,7 @@ const what =[ nasme = "wally",
             nasfme = "D",
             nassme = "bayola"];
 for (mike of what)console.log(mike);
+
 //foreach
 
 const phone =["samsung","realme","red magic"];
