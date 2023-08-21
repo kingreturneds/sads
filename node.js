@@ -31,3 +31,6 @@ for(let i = 0; i < flavor.length; i++){
 const food =["rice","wafer","corn"];
 for ( noss of food)console.log(noss);
 
+const what =[ nasme = "wally",
+                nassme = "bayola"];
+for (mike of what)console.log(mike);
