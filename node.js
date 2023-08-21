@@ -30,7 +30,16 @@ for(let i = 0; i < flavor.length; i++){
 }
 const food =["rice","wafer","corn"];
 for ( noss of food)console.log(noss);
-
+// day two i guess
 const what =[ nasme = "wally",
-                nassme = "bayola"];
+            nasfme = "D",
+            nassme = "bayola"];
 for (mike of what)console.log(mike);
+//foreach
+
+const phone =["samsung","realme","red magic"];
+
+phone.forEach((sss) => {
+    console.log(sss);
+
+});
